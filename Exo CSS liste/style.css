@@ -1,0 +1,9 @@
+.item {
+    background-color: blue;
+    width: 125px;
+}
+
+ul :nth-child(2) {
+    background-color: blue;
+    width: 125px;
+}
